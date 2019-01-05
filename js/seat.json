@@ -1,0 +1,25 @@
+{
+  "allData":[
+        {
+          "ROLE":"坐席",
+          "LEADERNAME":"肖彭燕",
+          "JOINTIME":"1545455454665",
+          "CUSTOMERSERVICES":"656",
+          "DISTRIBUTEDCITY":"上海,北京",
+          "CUSTOMERMANS":"23",
+          "CUSTOMERWOMENS":"45",
+          "MAXCALLLENGTH":"3565",
+          "TALKTOTALTIME":"34243243",
+          "NUMOFCALLS":"325",
+          "WECHATFRIEND":"3254",
+          "MESSAGESEND":"12566",
+          "RECEIVEMESSAGE":"325411",
+          "COMMISSIONRATE":85,
+          "MAXCOMMISSION":"32424",
+          "MAXCOMMISSIONTIME":"1645645135453",
+          "LEADERTEAM":"1254",
+          "STEADYPEOPLE":"254",
+          "CHARACTER":"勤奋"
+        }
+    ]
+}
